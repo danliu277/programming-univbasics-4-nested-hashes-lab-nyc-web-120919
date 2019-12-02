@@ -16,11 +16,7 @@ def hopper
         }
      }
      
-  programmer_hash = 
- 		{
-        :known_for => "COBOL",
-        :languages => ["COBOL", "FORTRAN"]
-     }
+  return programmer_hash[:grace_hopper]
 end
 
 def alan_kay_is_known_for
