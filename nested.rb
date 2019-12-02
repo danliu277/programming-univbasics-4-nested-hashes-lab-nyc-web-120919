@@ -33,7 +33,7 @@ def alan_kay_is_known_for
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :known_for => "Unix",
+          :known_for => ["Unix", "FORTRAN"],
           :languages => ["C"]
         }
      }
