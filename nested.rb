@@ -84,7 +84,7 @@ def adding_matz
         }
      }
      
-  programmer_hash[:grace_hopper][:yukihiro_matsumoto]
+  programmer_hash[:yukihiro_matsumoto] = nil
     
 end
 
